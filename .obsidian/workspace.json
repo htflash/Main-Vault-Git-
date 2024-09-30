@@ -23,16 +23,6 @@
             "id": "5b19648a4bbb5532",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Tags/Main Vault for Most Things"
-              }
-            }
-          },
-          {
-            "id": "3bd5b8e809eae501",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "3d Game Art.md",
@@ -117,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3d Game Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3d Game Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3d Game Art.md"
+              }
             }
           }
         ]
@@ -171,21 +165,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "fe31cc7aa6685403",
+  "active": "5b19648a4bbb5532",
   "lastOpenFiles": [
-    "All_Images_Git/Tortorella_WaterEnvironment_Video.mkv",
+    "History of Digital Culture.md",
+    "3d Game Art.md",
     "----------Code----------.md",
-    "Untitled.canvas",
     "Whisp Ideas for Portfolio and Learning Purposes.md",
+    "All_Images_Git/Tortorella_WaterEnvironment_Video.mkv",
+    "Untitled.canvas",
     "----------Game Developing----------.md",
     "Virtual Worlds and Simulations.md",
     "2024-09-29.md",
-    "3d Game Art.md",
-    "History of Digital Culture.md",
     "Art Renaissance.md",
     "----------Junior Year----------.md",
     "----------School Notes----------.md",
